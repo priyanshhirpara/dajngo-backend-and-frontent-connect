@@ -1,0 +1,10 @@
+Django
+django-environ
+python-dotenv
+drf-firebase-auth
+psycopg2-binary
+django-cors-headers
+django-rest-swagger
+drf-yasg
+djangorestframework-simplejwt
+django-filter
