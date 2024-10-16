@@ -109,3 +109,8 @@ chroma
 chromadb
 .vscode/
 venv*
+
+# frontend for djnago
+node_modules
+package-lock.json
+package.json
