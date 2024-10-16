@@ -1,6 +1,6 @@
 from django.urls import path
-from api.apis.views import main
+from api.apis.views import RoomView
 
 urlpatterns = [
-    path('main/', main, name='main'),
+    path('rooms/', RoomView.as_view(), name='rooms'),  # Add URL for RoomView
 ]
